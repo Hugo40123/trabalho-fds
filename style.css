@@ -1,0 +1,71 @@
+/*Estilização do fundo*/
+body {
+  background-color: #f4f4f4;
+  color: #373737;
+}
+/*Centralizando o título*/
+h1 {
+  color: #a89451;
+  text-align: center;
+}
+/*Estilização do páragrafo com autobiografia*/
+p {
+  font-size: 18px;
+  text-align: justify;
+  margin: 10px;
+  padding-bottom: 10px;
+}
+/*Centralizando o botão*/
+button {
+  display: block;
+  margin: 0 auto;
+}
+/*Centralizando a mensagem de boas vindas*/
+#mensagem {
+  text-align: center;
+  margin: 10px;
+}
+/*Estilização da lista não ordenada*/
+ul li {
+  padding-bottom: 10px;
+}
+/*Modificação da imagem que represente um hobbie*/
+#img01 {
+  border-radius: 20px;
+  width: 400px;
+  margin: 10px;
+  padding-bottom: 10px;
+}
+/*Estilização da tabela*/
+table {
+  border-collapse: collapse;
+  margin: 10px;
+}
+th {
+  text-align: center;
+  padding-bottom: 10px;
+}
+td {
+  border: 1px solid #373737;
+}
+/*Modificação das imagens da tabela*/
+.bandeira {
+  width: 100px;
+}
+/*Estilização do link*/
+a {
+  display: inline-block;
+  margin: 10px;
+  text-align: center;
+}
+a:hover {
+  color: #dcd0c0;
+  background-color: #373737;
+}
+.container {
+  text-align: center;
+}
+/*Modificação do estilo da fonte da citação da frase*/
+.citacao {
+  font-style: italic;
+}
